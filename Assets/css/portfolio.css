@@ -1,9 +1,15 @@
 .portfolio-img {
     position: relative;
+
+    /* Image's width is 50% of the column it's currently in */
+    width: 50%;
 }
 
 .text-box {
     position: absolute;
-    bottom: 20px;
+    bottom: 20%;
     background-color: orange;
+
+    /* Text-box's width is 100% of the image's width */
+    width: 100%;
 }
