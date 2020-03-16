@@ -1,0 +1,9 @@
+.portfolio-img {
+    position: relative;
+}
+
+.text-box {
+    position: absolute;
+    bottom: 20px;
+    background-color: orange;
+}
