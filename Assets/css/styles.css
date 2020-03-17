@@ -1,5 +1,6 @@
 #name, #navbarText {
     font-size: 25px;
+    color: white;
 }
 
 #header {
@@ -8,8 +9,4 @@
 
 #aboutPic {
     /* width: 25%; */
-}
-
-.res {
-    background-color: orange;
 }
