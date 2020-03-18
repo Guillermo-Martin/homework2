@@ -10,7 +10,7 @@
 
 ## Technologies
     * Languages, frameworks, and various tools
-        -HTML, CSS, and Bootstrap.
+        -HTML, CSS, Bootstrap, and W3C validation service.
 
 ## Challenges
     * You experience building this app
