@@ -17,5 +17,12 @@ This application uses the following:  HTML5, CSS, Bootstrap, W3C Validation Serv
 * How did you go about solving the problem
     * I solved my problem by Googling the particular problem I was having, reading up on solutions I found online, and trying them out in my code.  I also went to office hours and asked.
 
-## Screenshot
-![portfolio screenshot](./assets/Images/homework2screenShot.png)
+## Screenshots  
+About Me  
+![portfolio screenshot 1](./assets/Images/portfolio_1.jpg)  
+
+Contact  
+![portfolio screenshot 2](./assets/Images/portfolio_2.jpg)  
+
+Portfolio  
+![portfolio screenshot 3](./assets/Images/portfolio_3.jpg)
