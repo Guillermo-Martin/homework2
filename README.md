@@ -19,10 +19,10 @@ This application uses the following:  HTML5, CSS, Bootstrap, W3C Validation Serv
 
 ## Screenshots  
 About Me  
-![portfolio screenshot 1](./assets/Images/portfolio_1.jpg)  
+![portfolio screenshot 1](./Assets/Images/portfolio_1.jpg)  
 
 Contact  
-![portfolio screenshot 2](./assets/Images/portfolio_2.jpg)  
+![portfolio screenshot 2](./Assets/Images/portfolio_2.jpg)  
 
 Portfolio  
-![portfolio screenshot 3](./assets/Images/portfolio_3.jpg)
+![portfolio screenshot 3](./Assets/Images/portfolio_3.jpg)
