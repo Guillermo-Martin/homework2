@@ -1,5 +1,5 @@
 # Responsiveness Portfolio
-https://guillermo-martin.github.io/homework2/  
+https://guillermo-martin.github.io/responsivenessPortfolio/
 
 ## Description
 This application displays a biography about me, has a contact page, and a portfolio page to display all my projects.  A user can read about me and click on the various links to look at a portfolio or form to contact me.
